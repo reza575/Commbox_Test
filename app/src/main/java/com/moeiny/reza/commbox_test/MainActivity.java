@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewGroup testView;
     private WindowManager windowManager;
     private final int width = 200;
-    private final int height = 201;
+    private final int height = 200;
     private final int REQUEST_CODE = 1;
     private TextView link;
 
